@@ -2,4 +2,4 @@
 /notebooks/.ipynb_checkpoints/
 /__pycache__/
 ab-testing-cookie-cats/__pycache__/
-.csv
+*.csv
